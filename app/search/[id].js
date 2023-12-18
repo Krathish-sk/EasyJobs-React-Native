@@ -35,7 +35,7 @@ export default function JobSearch() {
         params: { query: id, num_pages: page.toString() },
         headers: {
           "X-RapidAPI-Key":
-            "71d5b33e54msh230d124660b0d40p1f5c9cjsn1976dda2d1ec",
+            "",
           "X-RapidAPI-Host": "jsearch.p.rapidapi.com",
         },
       };
